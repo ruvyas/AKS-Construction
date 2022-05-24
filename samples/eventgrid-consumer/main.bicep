@@ -27,9 +27,6 @@ module aksconst '../../bicep/main.bicep' = {
   params: {
     location : location
     resourceName: nameseed
-    enable_aad: true
-    enableAzureRBAC : true
-    registries_sku: ''
     omsagent: true
     retentionInDays: 30
     agentCount: 1
