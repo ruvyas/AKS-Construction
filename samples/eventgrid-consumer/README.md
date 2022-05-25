@@ -1,4 +1,8 @@
-# AKS events with Event Grid & Subscriber Sample
+# AKS events with Event Grid & Subscriber - Sample
+
+> Currently, AKS events with Event Grid is in preview.
+>
+> Please [register the Event Grid Preview feature](https://docs.microsoft.com/en-us/azure/aks/quickstart-event-grid#register-the-eventgridpreview-preview-feature) before deploying this sample
 
 This sample shows how to use a Storage Queue as a consumer/subscriber to the AKS Event Grid System Topic.
 
